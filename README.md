@@ -1,4 +1,4 @@
-                                                              ### Hi there 👋 This is Puja Kundu                     
+### Hi there 👋 This is Puja Kundu                     
 
 
 ![](https://komarev.com/ghpvc/?username=pujaKundu)
