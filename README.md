@@ -7,6 +7,9 @@
 - 📫 How to reach me: pujakundu797@gmail.com
 - ⚡ Fun fact: I love painting and watching movies and series in my free time.
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pujaKundu)](https://github.com/pujaKundu/github-readme-stats)
+
+
 ### Languages
 ![html5](https://i.ibb.co/W29pNXG/html5.png) 
 ![css](https://i.ibb.co/V9WKq1y/css3.png)
