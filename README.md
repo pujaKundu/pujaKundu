@@ -1,8 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media3.giphy.com/media/MeJgB3yMMwIaHmKD4z/200.webp?cid=ecf05e47be7bsuggqi4ztf6b3nik2xcgjwftapg1j9c6v26y&rid=200.webp&ct=g" align="center" style="width: 30%" />
+
 </div>  
   
-### <div align="center">Hi there 👋 This is Puja Kundu. A frontend developer 💻</div>  
+### <div align="center">This is Puja Kundu 👋 . A frontend developer 💻</div>  
 ![](https://komarev.com/ghpvc/?username=pujaKundu) 
 <div align="center">
 <a href="https://www.linkedin.com/in/puja-kundu-62a0231a3/" target="_blank">
