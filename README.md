@@ -21,9 +21,9 @@
 
 - 🔭 I’m currently working on React JS  
 
-- 🌱 I’m currently learning the MERN stack    
+- 🌱 I’m currently learning Redux    
 
-- ❓  Ask me about anything related to MERN stack and related technologies  
+- ❓  Ask me about anything related to Frontend Development  
 
 - 📫 How to reach me: pujakundu797@gmail.com
   
