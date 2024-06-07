@@ -3,7 +3,7 @@
 
 </div>  
   
-### <div align="center">This is Puja Kundu 👋 . A frontend developer 💻</div>  
+### <div align="center">This is Puja Kundu 👋 . A software engineer 💻</div>  
 ![](https://komarev.com/ghpvc/?username=pujaKundu) 
 <div align="center">
 <a href="https://www.linkedin.com/in/puja-kundu-62a0231a3/" target="_blank">
@@ -19,7 +19,7 @@
  
 <br/>  
 
-- 🔭 I’m currently working on React JS  
+- 🔭 I’m currently working as a Junior Software Engineer  
 
 - 🌱 I’m currently learning Redux    
 
