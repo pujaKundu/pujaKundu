@@ -18,13 +18,13 @@
  
 <br/>  
 
-- 🔭 I’m currently working as a Junior Software Engineer at [Ollyo](https://ollyo.com/)
+-  I’m currently working as Software Engineer at [Ollyo](https://ollyo.com/)
 
-- 🌱 I’m currently learning PHP    
+-  I’m currently learning PHP    
 
-- ❓  Ask me about anything related to Frontend Development  
+-  Ask me about anything related to Frontend Development  
 
-- 📫 How to reach me: pujakundu797@gmail.com
+-  How to reach me: pujakundu797@gmail.com
   
 ## My Skill Set  
 [![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,tailwind,mongodb,mysql,cypress,python,git,github)](https://skillicons.dev)
